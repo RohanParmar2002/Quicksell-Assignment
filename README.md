@@ -25,14 +25,15 @@ This application provides an intuitive and organized way to view and manage tick
 
 <table>
   <tr>
-    <td><img src="src/Screenshots/SS1.png" alt="" /></td>
-    <td><img src="src/Screenshots/SS2.png" alt="" /></td>
+    <td><img src="src/Assets/icons_FEtask/SS1.png" alt="" /></td>
+    <td><img src="src/Assets/icons_FEtask/SS2.png" alt="" /></td>
   </tr>
   <tr>
-    <td><img src="src/Screenshots/SS3.png" alt="" /></td>
-    <td><img src="src/Screenshots/SS4.png" alt="" /></td>
+    <td><img src="src/Assets/icons_FEtask/SS3.png" alt="" /></td>
+    <td><img src="src/Assets/icons_FEtask/SS4.png" alt="" /></td>
   </tr>
   <tr>
-    <td><img src="src/Screenshots/SS5.png" alt="" /></td>
+    <td><img src="src/Assets/icons_FEtask/SS5.png" alt="" /></td>
+    <td><img src="src/Assets/icons_FEtask/SS6.png" alt="" /></td>
   </tr>
 </table>
